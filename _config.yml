@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: OwOLabs
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Lab of Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MOREmoji_owo.svg/1200px-MOREmoji_owo.svg.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: support@owolabs.tech
   facebook:
   flickr:
   github:
